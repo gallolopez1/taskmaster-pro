@@ -1,5 +1,12 @@
 # taskmaster-pro
+
+## Purpose
 Utility tool to help you organize tasks!
+
+## Built With
+* HTML
+* CSS
+* JS
 
 ## Links
 
